@@ -47,3 +47,4 @@
 
 </body>
 </html>
+[store2.html](https://github.com/user-attachments/files/23574360/store2.html)

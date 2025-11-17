@@ -17,7 +17,7 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="[store2.html]">Store</a></li>
+            <li><a href="store2.html">Store</a></li>
             <li><a href="#">Games</a></li>
             <li><a href="#">News</a></li>
             <li><a href="#">Contact</a></li>

@@ -17,7 +17,7 @@
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="[store.html](https://github.com/Wavegaming100/wavegaming100.github.io/commit/484a4db18407d950a223c4d4b56c8c4e2261435c#diff-19fd82897aa67ab54b8bd18101ca57eca7e2cf9dbc30c768d0689a1c4d7fa4a2)">Store</a></li>
+            <li><a href="[store.html]">Store</a></li>
             <li><a href="#">Games</a></li>
             <li><a href="#">News</a></li>
             <li><a href="#">Contact</a></li>
